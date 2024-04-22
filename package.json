@@ -1,6 +1,6 @@
 {
-  "name": "@koumoul/gh-pages-multi",
-  "version": "0.7.2",
+  "name": "@zbmed/gh-pages-multi",
+  "version": "0.7.7",
   "description": "Simply push files to gh-pages on github and manage subdirectories. Easy way to publish documentation for multiple versions of a project for example.",
   "main": "lib",
   "bin": {
@@ -40,5 +40,8 @@
     "rimraf": "^5.0.5",
     "semver": "^7.5.4",
     "tmp-promise": "^3.0.3"
+  },
+  "publishConfig": {
+    "registry": "https://github.com/zbmed/gh-pages-multi.git"
   }
 }
