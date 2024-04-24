@@ -1,6 +1,6 @@
 {
   "name": "@zbmed/gh-pages-multi",
-  "version": "0.7.7",
+  "version": "0.7.9",
   "description": "Simply push files to gh-pages on github and manage subdirectories. Easy way to publish documentation for multiple versions of a project for example.",
   "main": "lib",
   "bin": {

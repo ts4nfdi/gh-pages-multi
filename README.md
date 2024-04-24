@@ -1,3 +1,7 @@
+Adapted for the needs of the SemLookP widgets:
+- Changed order of versions to descending with "latest" on top
+- Creating the index.html from the subdirectory "comp"
+
 # gh-pages-multi
 
 Simply push files to gh-pages on github and manage subdirectories. Also create a index.html file listing subdirectories as root. Easy way to publish documentation for multiple versions of a project for example.
